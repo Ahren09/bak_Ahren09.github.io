@@ -1,0 +1,53 @@
+{% if site.publications %}
+
+
+<h3>PUBLICATIONS</h5>
+
+
+
+
+<div class="container-fluid col-12">
+  {% for pub in site.publications %}
+  <div class="row" style="float:left;">
+
+    <div class="col-4" style="float:left;">
+      <h4>{{pub.title}}</h4>
+      <h5>({{pub.status}})</h5>
+
+      {% if pub.authors %}
+        {% for author in pub.authors %}
+        <a href="{{author.url}}">
+          {% if author.name == "Yiqiao Jin" %}
+            <b><u>{{author.name}}</u></b>
+          {% else %}
+            {{author.name}}
+          {% endif %}
+        </a>,
+        {% endfor %}
+      {% else %}
+        <b>TODO: author list</b>
+      {% endif %}
+    </div>
+
+    <div class="col-4" style="float:left;">
+        <img src="{{pub.image}}" width="200">
+    </div>
+
+  </div>
+  {% endfor %}
+</div>
+
+
+    
+
+  
+
+{% endif %}
+
+<div class="app">
+
+<div style="float:left;background:#f00;">div1</div>
+
+<div style="float:left;background:#0f0;margin-left:10px;">div2</div>
+
+</div>

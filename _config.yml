@@ -99,9 +99,100 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
+publications: [
+  {
+    title: "Towards Fine-Grained Reasoning for Fake News Detection",
+    image: "img/Publications/FinerFact.png",
+    authors: [
+      {
+        name: "Yiqiao Jin",
+        url: "https://www.linkedin.com/in/ahren-jin/"
+      },
+      {
+        name: "Xiting Wang",
+        url: "https://www.microsoft.com/en-us/research/people/xitwan/"
+      },
+      {
+        name: "Ruichao Yang",
+        url: ""
+      },
+      {
+        name: "Yizhou Sun",
+        url: "http://web.cs.ucla.edu/~yzsun/"
+      },
+      {
+        name: "Wei Wang",
+        url: "http://web.cs.ucla.edu/~weiwang/"
+      },
+      {
+        name: "Hao Liao",
+        url: "https://scholar.google.ch/citations?user=Tu5ZuREAAAAJ&hl=en"
+      },
+      {
+        name: "Xing Xie",
+        url: "https://www.microsoft.com/en-us/research/people/xingx/"
+      },
+
+    ],
+    status: "Preprint. Under Review."
+  },
+  {
+    title: "Deep Graph Similarity Learning with Spectral Support",
+    image: "img/Publications/FinerFact.png",
+    authors: [
+      {
+        name: "Feng Shi",
+        url: "https://scholar.google.com/citations?user=urVyCJwAAAAJ&hl=en"
+      },
+      {
+        name: "Yiqiao Jin",
+        url: "https://www.linkedin.com/in/ahren-jin/"
+      },
+      {
+        name: "Tianyang Liu",
+        url: "https://www.linkedin.com/in/tianyang-liu-336884198/"
+      },
+      {
+        name: "Songchun Zhu",
+        url: "http://www.stat.ucla.edu/~sczhu/"
+      },
+
+    ],
+    status: "Preprint."
+  }
+  
+]
+
+whatsnew: [
+  {
+    time: "Sept. 17th, 2021",
+    desc: "I completed my internship at Microsoft Research Asia (MSRA)"
+  }, {
+    time: "Sept. 15th, 2021",
+    desc: "I wrote a help doc for incoming interns at MSRA SC Group. You can read part of it from <a>here</a>"
+  }, {
+    time: "Dec. 22th, 2020",
+    desc: "I started to work as a research intern at MSRA"
+  }, {
+    time: "Sept. 4th, 2020",
+    desc: "I completed my SDE internship at Amazon (FBA IAR Team)"
+  }
+]
+
+interests: [
+  "Recommender Systems & Graph-based Recommendation",
+  "Graph Representation Learning",
+  "Graph Neural Networks",
+  "Natural Language Processing & Text Mining"
+]
+
+    # context: {
+    #     "images": images,
+    #     "whatsnew": whatsnew,
+    #     "interests":interests
+    # }
 
 
-# Friends
 # friends: [
 #     {
 #     #     title: "Su",

@@ -8,6 +8,8 @@ description: "「Let there be light | 一说要有光，于是就有了追光者
     {{ about_en | markdownify }}
 </div>
 
+{% include publications.html %}
+
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">

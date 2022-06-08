@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ahren09.github.io/sitemap.xml

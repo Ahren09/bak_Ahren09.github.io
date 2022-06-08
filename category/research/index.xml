@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Yiqiao Jin | Gatech</title>
+    <link>https://ahren09.github.io/category/research/</link>
+      <atom:link href="https://ahren09.github.io/category/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ahren09.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research</title>
+      <link>https://ahren09.github.io/category/research/</link>
+    </image>
+    
+    <item>
+      <title>Prototypical Fine-tuning - Towards Robust Performance Under Varying Data Sizes</title>
+      <link>https://ahren09.github.io/post/getting-started/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://ahren09.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;Preprint.&lt;/p&gt;
+&lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
+&lt;p&gt;Yiqiao Jin&lt;sup&gt;1&lt;/sup&gt;, Xiting Wang&lt;sup&gt;2&lt;/sup&gt;, Yaru Hao&lt;sup&gt;2&lt;/sup&gt;, Yizhou Sun&lt;sup&gt;1&lt;/sup&gt;, Xing Xie&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;University of California, Los Angeles,
+&lt;sup&gt;2&lt;/sup&gt;Microsoft Research Asia&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We move towards combining large parametric models with non-parametric prototypical networks. We propose prototypical fine-tuning, a novel prototypical framework for fine-tuning pretrained language models (LM), which automatically learns a bias to improve predictive performance for varying data sizes, especially low-resource settings. Our prototypical fine-tuning approach can automatically adjust the model capacity according to the data complexity and the model&amp;rsquo;s inherent attributes. Moreover, we propose four principles for effective prototype fine-tuning towards the global optimum. Experimental results across various datasets show that our work achieves significant performance improvements under various low-resource settings, as well as comparable and usually better performances in high-resource scenarios.&lt;/p&gt;
+&lt;p&gt;s&amp;lt;!&amp;ndash; ## Get Started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;posts/getting-started/PFit.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2022-present &lt;a href=&#34;https://ahren09.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yiqiao Jin&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

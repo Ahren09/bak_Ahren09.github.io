@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Yiqiao Jin | Gatech</title>
-    <link>https://ahren09.github.io/publication-type/3/</link>
-      <atom:link href="https://ahren09.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
-    <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <title>GNN | Yiqiao Jin | Gatech</title>
+    <link>https://ahren09.github.io/tag/gnn/</link>
+      <atom:link href="https://ahren09.github.io/tag/gnn/index.xml" rel="self" type="application/rss+xml" />
+    <description>GNN</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ahren09.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>3</title>
-      <link>https://ahren09.github.io/publication-type/3/</link>
+      <title>GNN</title>
+      <link>https://ahren09.github.io/tag/gnn/</link>
     </image>
     
     <item>
-      <title>Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes</title>
-      <link>https://ahren09.github.io/publication/aaai2023/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ahren09.github.io/publication/aaai2023/</guid>
+      <title>Contributor Recommendation for Open-Sourced Projects</title>
+      <link>https://ahren09.github.io/publication/www2023/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://ahren09.github.io/publication/www2023/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

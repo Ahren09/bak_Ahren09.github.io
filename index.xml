@@ -152,9 +152,9 @@
     
     <item>
       <title>Prototypical Fine-tuning - Towards Robust Performance Under Varying Data Sizes</title>
-      <link>https://ahren09.github.io/post/getting-started/</link>
+      <link>https://ahren09.github.io/post/aaai2023-pfit/</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ahren09.github.io/post/getting-started/</guid>
+      <guid>https://ahren09.github.io/post/aaai2023-pfit/</guid>
       <description>&lt;p&gt;Preprint.&lt;/p&gt;
 &lt;h2 id=&#34;authors&#34;&gt;Authors&lt;/h2&gt;
 &lt;p&gt;Yiqiao Jin&lt;sup&gt;1&lt;/sup&gt;, Xiting Wang&lt;sup&gt;2&lt;/sup&gt;, Yaru Hao&lt;sup&gt;2&lt;/sup&gt;, Yizhou Sun&lt;sup&gt;1&lt;/sup&gt;, Xing Xie&lt;sup&gt;2&lt;/sup&gt;&lt;/p&gt;
@@ -365,6 +365,28 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ahren09.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Ask Me in English Instead: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</title>
+      <link>https://ahren09.github.io/publication/www2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahren09.github.io/publication/www2024/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

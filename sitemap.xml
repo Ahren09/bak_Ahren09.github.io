@@ -70,7 +70,7 @@
   <url>
     <loc>https://ahren09.github.io/post/</loc><lastmod>2022-05-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://ahren09.github.io/post/getting-started/</loc><lastmod>2022-05-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://ahren09.github.io/post/aaai2023-pfit/</loc><lastmod>2022-05-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ahren09.github.io/category/research/</loc><lastmod>2022-05-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -102,7 +102,11 @@
   <url>
     <loc>https://ahren09.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://ahren09.github.io/publication-type/3/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://ahren09.github.io/publication/www2024/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ahren09.github.io/bak_home/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -110,7 +114,13 @@
   <url>
     <loc>https://ahren09.github.io/tag/data-mining/</loc><changefreq>weekly</changefreq></url>
   <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://ahren09.github.io/tag/information-pathway/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>
@@ -123,6 +133,10 @@
     <loc>https://ahren09.github.io/tag/recommender-system/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://ahren09.github.io/tag/software-engineering/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><changefreq>weekly</changefreq></url>
   <url>

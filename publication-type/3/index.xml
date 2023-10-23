@@ -5,7 +5,7 @@
     <link>https://ahren09.github.io/publication-type/3/</link>
       <atom:link href="https://ahren09.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://ahren09.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Prototypical Fine-tuning: Towards Robust Performance Under Varying Data Sizes</title>
-      <link>https://ahren09.github.io/publication/aaai2023/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://ahren09.github.io/publication/aaai2023/</guid>
+      <title>Ask Me in English Instead: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries</title>
+      <link>https://ahren09.github.io/publication/www2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ahren09.github.io/publication/www2024/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
